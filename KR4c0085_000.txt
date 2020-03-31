@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 曹祠部集
-#+DATE: 2020-03-31 11:34:07.040700
+#+DATE: 2020-03-31 11:34:07.097064
 #+PROPERTY: ID KR4c0085
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR4c0085_WYG_000-1a>¶
 　　欽定四庫全書　　　　集部二¶

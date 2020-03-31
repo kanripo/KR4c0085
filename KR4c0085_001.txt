@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 曹祠部集
-#+DATE: 2020-03-31 11:34:07.044373
+#+DATE: 2020-03-31 11:34:07.100708
 #+PROPERTY: ID KR4c0085
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR4c0085_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -359,7 +359,7 @@
 籐似蛇侵牆水成蘚幽鳥不識人時來拂冠冕㳂流路¶
 <pb:KR4c0085_WYG_001-14a>¶
 若窮及行路猶遠洞中已云夕洞口天未晩自憐不羇¶
-者冩物性常簡飜愁此興多引得嵇康&KR0568;¶
+者冩物性常簡飜愁此興多引得嵇康嬾¶
 ¶
 　　故人寄茶¶
 ¶
